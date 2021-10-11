@@ -18,7 +18,7 @@ def main():#main function to join meet
     time.sleep(1)
     pyautogui.press('enter')
     time.sleep(1)
-    pyautogui.typewrite('https://meet.google.com/ypc-riev-yfh?authuser=1')  #google meet link (autotype), you can change into your google meet link
+    pyautogui.typewrite('link')  #google meet link (autotype), you can change into your google meet link
     time.sleep(1)
     pyautogui.press('enter')
     time.sleep(3)
